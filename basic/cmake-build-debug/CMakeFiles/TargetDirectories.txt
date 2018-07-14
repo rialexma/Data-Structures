@@ -1,0 +1,3 @@
+C:/Users/Richard/Dropbox/CSE 30/basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Richard/Dropbox/CSE 30/basic/cmake-build-debug/CMakeFiles/basic.dir
+C:/Users/Richard/Dropbox/CSE 30/basic/cmake-build-debug/CMakeFiles/edit_cache.dir
