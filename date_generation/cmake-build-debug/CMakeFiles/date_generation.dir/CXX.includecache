@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Richard/Dropbox/CSE 30/date_generation/DataGen.h
+RandomSupport.h
+C:/Users/Richard/Dropbox/CSE 30/date_generation/RandomSupport.h
+
+C:/Users/Richard/Dropbox/CSE 30/date_generation/RandomSupport.h
+random
+-
+
+C:/Users/Richard/Dropbox/CSE 30/date_generation/TimeSupport.h
+chrono
+-
+
+C:/Users/Richard/Dropbox/CSE 30/date_generation/main.cpp
+iostream
+-
+TimeSupport.h
+C:/Users/Richard/Dropbox/CSE 30/date_generation/TimeSupport.h
+DataGen.h
+C:/Users/Richard/Dropbox/CSE 30/date_generation/DataGen.h
+

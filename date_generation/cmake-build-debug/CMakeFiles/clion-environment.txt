@@ -1,0 +1,5 @@
+ToolSet: w64 5.0@C:\Program Files\mingw-w64\x86_64-7.1.0-posix-seh-rt_v5-rev2\mingw64
+Options: 
+CMake: 3.9.4@C:\Program Files\JetBrains\CLion 173.3188.25\bin\cmake\bin\cmake.exe
+
+Options:
